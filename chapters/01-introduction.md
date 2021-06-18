@@ -7,7 +7,7 @@ This is the first paragraph of the introduction chapter.
 This is the first subsection. Please, admire the gloriousnes of Figure \ref{seagull_image}.
 
 
-![A cool seagull.\label{seagull_image}](images/seagull.png)
+![A cool seagull.\label{seagull_image}](../images/seagull.png)
 
 ## Second
 
@@ -38,12 +38,15 @@ $$\mu = \sum_{i=0}^{N} \frac{x_i}{N}$$
 
 And a code sample:
 
-```rb
-def hello_world
-  puts "hello world!"
-end
+```python
+def hello_world():
+  print("hello world!")
+```
 
-hello_world
+```c++
+void foo::bar(){
+  std::cout << "some string" << std::endl
+}
 ```
 
 Check these unicode characters: ǽß¢ð€đŋμ
