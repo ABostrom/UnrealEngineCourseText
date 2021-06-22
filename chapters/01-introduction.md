@@ -1,52 +1,36 @@
-# Introduction
-
-This is the first paragraph of the introduction chapter.
-
-## First
-
-This is the first subsection. Please, admire the gloriousnes of Figure \ref{seagull_image}.
+ # Introduction
 
 
-![A cool seagull.\label{seagull_image}](../images/seagull.png)
-
-## Second
-
-This is the second subsection.
 
 
-Please, check [First] subsection.
 
-Please, check [this](#first) subsection.
+## Game Engine Content
+- Game Engine Terms / Glossary
+- Editor, Interface and Content Browser
+- Actors and the Game World
 
-Please, check Table \ref{example_table}.
 
-| Index | Name |
-| ----- | ---- |
-| 0     | AAA  |
-| 1     | BBB  |
-| ...   | ...  |
+## Blueprint Content
+- Primitives and Common Types
+  - bools, ints, float, Vector, Transform
+- Data Structures
+  - List, Set, Map
+- Functions and Events
+  - callbacks
+- Actors and Inheritance
+  - UObjects
+- Components
+- Interfaces
 
-Table: This is an example table.\label{example_table}
+## UE4 C++ Programming
+- Primitives and Commont types
+- Data structures
+  - ENUMS
+- Actors and Inheritance
+  - UPROPERTY
+- Functions and Events
+  - Blueprints and Delegates
+- Components
+- Interfaces 
 
-## Third
 
-Formula example: $\mu = \sum_{i=0}^{N} \frac{x_i}{N}$
-
-Now, full size:
-
-$$\mu = \sum_{i=0}^{N} \frac{x_i}{N}$$
-
-And a code sample:
-
-```python
-def hello_world():
-  print("hello world!")
-```
-
-```c++
-void foo::bar(){
-  std::cout << "some string" << std::endl
-}
-```
-
-Check these unicode characters: ǽß¢ð€đŋμ
