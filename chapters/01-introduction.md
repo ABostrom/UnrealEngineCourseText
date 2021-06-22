@@ -34,4 +34,18 @@
 - Components
 - Interfaces 
 
+## Animation and Geometry Programming
+
+  - Verts, Edges, Faces and Meshes
+  - Skeletons and Bones
+  - Procedural Geometry
+  - Animation State Machine
+    - Inputs and Outputs
+    - Animation events / triggers
+
+## Materials
+  - Basic Materials
+  - Inputs and Outputs
+    - material params in blueprint
+
 
