@@ -8,6 +8,7 @@
 - Game Engine Terms / Glossary
 - Editor, Interface and Content Browser
 - Actors and the Game World
+- Input and Keybinds
 
 
 ## Blueprint Content
